@@ -1,0 +1,52 @@
+.about-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    
+  }
+
+  body{
+    /* background-image: url("about_image.jpg"); */
+    background-image: url("download.jpeg");
+  }
+  
+  .about-section h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .about-section h2 span {
+    color: #131314;
+  }
+  
+  .about-section h3 {
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .about-section ol {
+    text-align: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+  }
+  
+  .about-section li {
+    margin-bottom: 10px;
+  }
+  
+  .about-section p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  .about-section p span {
+    color: #131314;
+  }
+  
+  .about-section strong {
+    font-weight: bold;
+  }
+  
